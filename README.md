@@ -45,7 +45,7 @@ EXAMPLE COMMANDS
 | "Exit" / "Bye" | Ends the program |
 
 DEMO
-See `demo.png` for a sample terminal run showing recognized commands and spoken responses.
+See Voice assistant output.png for a sample terminal run showing recognized commands and spoken responses.
 
 FUTURE IMPROVEMENTS
 - Add more commands (weather, reminders, etc.)
